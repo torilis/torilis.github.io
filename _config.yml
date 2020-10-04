@@ -8,3 +8,4 @@ theme: jekyll-theme-cayman
 exclude: 
 - README
 - Gemfile
+- CNAME
